@@ -1,0 +1,14 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+.thumbnail img{
+    width: 100%;
+}
+.thumbnail{
+    padding: 0;
+}
+
+.delete-form{
+    display: inline;
+}
